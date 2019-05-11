@@ -4,6 +4,7 @@
     "type": "library",
     "keywords": ["jsonapi", "deserializer", "serializer"],
     "license": "MIT",
+    "version": "1.0",
     "authors": [
         {
             "name": "kolyabres",
@@ -16,7 +17,8 @@
     },
     "autoload": {
         "psr-4": {
-            "JsonAPi": "src/"
+            "JsonAPi\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
