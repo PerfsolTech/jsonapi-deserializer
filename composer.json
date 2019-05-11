@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JsonAPi\\": "src/"
+            "Perfsol\\JsonAPi\\": "src/"
         }
     },
     "minimum-stability": "dev"

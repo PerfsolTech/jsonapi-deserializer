@@ -1,6 +1,6 @@
 <?php
 
-namespace JsonApi;
+namespace Perfsol\JsonApi;
 
 class JsonApi
 {

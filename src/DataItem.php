@@ -1,8 +1,8 @@
 <?php
 
-namespace JsonApi;
+namespace Perfsol\JsonApi;
 
-use JsonApi\DataItem\Relationships;
+use Perfsol\JsonApi\DataItem\Relationships;
 
 class DataItem
 {

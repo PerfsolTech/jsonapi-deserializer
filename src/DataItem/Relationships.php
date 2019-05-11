@@ -1,9 +1,9 @@
 <?php
 
-namespace JsonApi\DataItem;
+namespace Perfsol\JsonApi\DataItem;
 
-use JsonApi\DataItem;
-use JsonApi\IterableTrait;
+use Perfsol\JsonApi\DataItem;
+use Perfsol\JsonApi\IterableTrait;
 
 class Relationships implements \Iterator
 {
