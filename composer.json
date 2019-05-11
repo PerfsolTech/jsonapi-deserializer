@@ -1,0 +1,22 @@
+{
+    "name": "perfsol/jsonapi-deserializer",
+    "description": "PHP Implementation for deserializing your data from JSON API",
+    "type": "library",
+    "keywords": ["jsonapi", "deserializer", "serializer"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kolyabres",
+            "email": "mykola.breslavskyi@perfsol-software.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "JsonAPi": "src/"
+        }
+    }
+}
